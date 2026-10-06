@@ -1,0 +1,2 @@
+from ai_engine.detection.face_detector import FaceDetector
+from ai_engine.detection.person_detector import PersonDetector
